@@ -400,3 +400,175 @@ I'm always open to learning new technologies if they're the right fit for the pr
 
 ➡️ The final section includes my development workflow, tools I use every day, GitHub stats, contribution widgets, contact information, and a few finishing touches to complete the profile.
 
+---
+
+## Visnext Software Solutions
+
+**Software Engineer (MERN Stack)**
+**July 2022 – July 2025**
+
+Visnext was where I spent the first three years of my professional career. During that time I worked on products across healthcare, enterprise software, document automation, and live commerce, using React, Next.js, Angular, and Vue depending on the project.
+
+It was also where I became comfortable working on large production codebases, collaborating with remote teams, and taking ownership of features from planning through deployment.
+
+---
+
+## Adelphi
+
+Adelphi is an enterprise SaaS platform where I worked primarily on the frontend using Next.js.
+
+A large part of my work involved building reusable layouts, implementing role-based dashboards, and creating components that could be shared across multiple areas of the application. I also worked on deployment pipelines and production releases, making sure new features could be shipped without affecting existing users.
+
+### What I've worked on
+
+* Building the frontend with Next.js
+* Server-side rendering (SSR)
+* Role-based dashboards
+* Reusable component architecture
+* Secure PDF signing
+* Responsive layouts
+* Accessibility improvements
+* AWS EC2 deployments
+* PM2 process management
+* CI/CD pipeline maintenance
+
+### Tech Stack
+
+`Next.js` `React` `Node.js` `JavaScript` `AWS EC2` `PM2`
+
+---
+
+## TurboDocx
+
+TurboDocx is probably one of the most technically interesting products I've worked on.
+
+It's a browser-based document editor that allows users to build templates, edit documents, and export them while maintaining consistent formatting.
+
+A lot of the work involved building complex frontend interactions that still felt smooth and responsive, even as documents became larger and more dynamic.
+
+### What I've worked on
+
+* Drag and drop editor
+* Variable-based templates
+* Reusable editor components
+* Keyboard shortcuts
+* Autosave functionality
+* Conditional rendering
+* PDF generation
+* Cross-browser compatibility
+* Performance improvements
+* Bug fixing and feature development
+
+### Tech Stack
+
+`React` `JavaScript` `HTML` `CSS` `PDF Generation`
+
+---
+
+## DripShop
+
+DripShop is a live commerce platform built around livestream shopping.
+
+My work focused on the frontend experience, making sure real-time updates remained smooth while users interacted with products during live events.
+
+I also worked on responsive layouts and improving state management to keep the application feeling fast during high activity.
+
+### What I've worked on
+
+* React development
+* TypeScript implementation
+* GraphQL integration
+* Animated product overlays
+* Responsive UI
+* Real-time interface updates
+* State management improvements
+* Performance optimization
+
+### Tech Stack
+
+`React` `TypeScript` `GraphQL`
+
+---
+
+## Perfeqta
+
+Perfeqta is a healthcare SaaS platform built with Angular.
+
+Working on this project introduced me to larger enterprise applications where performance and reliability mattered just as much as adding new features.
+
+I spent most of my time improving frontend performance, reducing unnecessary rendering, and making the application work well across slower devices and networks.
+
+### What I've worked on
+
+* Angular development
+* Lazy loading
+* RxJS
+* Change detection optimization
+* State management improvements
+* Component refactoring
+* UI bug fixing
+* Performance profiling
+
+### Tech Stack
+
+`Angular` `RxJS` `TypeScript`
+
+---
+
+## Annicare
+
+Annicare is another healthcare platform where I worked primarily with Vue.js.
+
+The application used a micro-frontend architecture, allowing teams to work on independent modules while sharing a common platform.
+
+Alongside frontend development, I also worked on testing, deployment automation, and improving reliability across production releases.
+
+### What I've worked on
+
+* Vue.js development
+* Micro-frontend architecture
+* Reusable UI components
+* Azure Pipelines
+* Unit testing
+* Visual regression testing
+* Build automation
+* Responsive layouts
+
+### Tech Stack
+
+`Vue.js` `JavaScript` `Azure Pipelines`
+
+---
+
+## A few things I've learned along the way
+
+One thing I appreciate about my experience so far is the variety of products I've had the chance to work on. I've never spent four years maintaining the same application.
+
+Instead, I've worked across enterprise software, healthcare, document editors, payment systems, agriculture platforms, social applications, and live commerce products. Every project introduced a different set of technical challenges, different technologies, and different ways of thinking about software.
+
+That variety has made it easier for me to adapt to new codebases, learn unfamiliar domains quickly, and become productive without needing months to get comfortable.
+
+It's also one of the reasons I enjoy consulting-style product development. Every new project is an opportunity to solve a different kind of problem.
+
+---
+
+# What's Next
+
+Outside of client work, I'm always interested in improving the way I build software.
+
+Lately I've been spending more time exploring:
+
+* Modern React patterns
+* React Server Components
+* AI-assisted development workflows
+* Better developer experience
+* Software architecture
+* Performance optimization
+* Workflow automation with n8n
+* Building internal engineering tools
+
+I'm always open to learning new technologies if they're the right fit for the product rather than using them just because they're popular.
+
+---
+
+➡️ The final section includes my development workflow, tools I use every day, GitHub stats, contribution widgets, contact information, and a few finishing touches to complete the profile.
